@@ -115,7 +115,7 @@ DIVIDE(
 ## 👤 Author
 
 **Karan Pawar**
-B.Sc. Computer Science | Data Analyst & Backend Developer
+B.Sc. Computer Science | PowerBI Devloper & Data Analyst
 
 - GitHub: [github.com/karan-codes45](https://github.com/karan-codes45)
 - LinkedIn:(https://www.linkedin.com/in/karan-pawar-9a645a2ab)
