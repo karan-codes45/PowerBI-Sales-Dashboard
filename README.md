@@ -1,4 +1,4 @@
-<img width="584" height="53" alt="image" src="https://github.com/user-attachments/assets/efbcb9ac-ea0f-4fac-b4f5-9a661bdeaf27" /># 📊 E-Commerce Sales Analytics Dashboard
+># 📊 E-Commerce Sales Analytics Dashboard
 
 An end-to-end **Power BI** portfolio project analyzing Indian e-commerce sales data — from raw CSVs to a governed star-schema data model to a 3-page interactive dashboard with drillthrough and DAX-powered KPIs.
 
@@ -119,4 +119,4 @@ B.Sc. Computer Science | PowerBI Devloper & Data Analyst
 
 - GitHub: [github.com/karan-codes45](https://github.com/karan-codes45)
 - LinkedIn:(https://www.linkedin.com/in/karan-pawar-9a645a2ab)
-<img width="584" height="53" alt="image" src="https://github.com/user-attachments/assets/718efb77-bd0a-459e-a06e-6291868c2f4d" />
+
