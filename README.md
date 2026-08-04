@@ -1,4 +1,4 @@
-# 📊 E-Commerce Sales Analytics Dashboard
+<img width="584" height="53" alt="image" src="https://github.com/user-attachments/assets/efbcb9ac-ea0f-4fac-b4f5-9a661bdeaf27" /># 📊 E-Commerce Sales Analytics Dashboard
 
 An end-to-end **Power BI** portfolio project analyzing Indian e-commerce sales data — from raw CSVs to a governed star-schema data model to a 3-page interactive dashboard with drillthrough and DAX-powered KPIs.
 
@@ -33,7 +33,7 @@ One fact table connected to four dimension tables — built for clean, fast DAX 
 ## 📄 Dashboard Pages
 
 ### 1️⃣ Executive Sales Overview
-![Executive Sales Overview]([Executive_Sales_Dashboard.jpg](https://github.com/karan-codes45/PowerBI-Sales-Dashboard/blob/main/Dashboards/Executive%20Sales%20Dashboard.jpg))
+![Executive Sales Overview](Dashboards/Executive%20Sales%20Dashboard.jpg)
 
 **Key metrics:** ₹156.64M Total Revenue · 6K Orders
 
@@ -44,7 +44,7 @@ One fact table connected to four dimension tables — built for clean, fast DAX 
 - Only 13.93% of orders are festive-sale, yet the monthly trend still peaks sharply around Oct–Nov
 
 ### 2️⃣ Product Performance
-![Product Performance]([Product_Performance.jpg](https://github.com/karan-codes45/PowerBI-Sales-Dashboard/blob/main/Dashboards/Product%20Performance.jpg))
+![Product Performance](Dashboards/Product%20Performance.jpg)
 
 **Key metrics:** ₹26.11K Avg Order Value · 45.1% Regular Segment share
 
@@ -55,7 +55,7 @@ One fact table connected to four dimension tables — built for clean, fast DAX 
 - By units sold, Nike is the top-selling brand, well ahead of Roadster and Penguin
 
 ### 3️⃣ Operations Dashboard
-![Operations Dashboard]([Operations_Dashboard.jpg](https://github.com/karan-codes45/PowerBI-Sales-Dashboard/blob/main/Dashboards/Operations%20Dashboard.jpg))
+![Operations Dashboard](Dashboards/Operations%20Dashboard.jpg)
 
 **Key metrics:** 6 days Avg Delivery · 9,108 units tracked
 
@@ -105,9 +105,9 @@ DIVIDE(
 | File | Description |
 |---|---|
 | `e_com_express.pbix` | Full Power BI project file (open in Power BI Desktop) |
-| `Executive_Sales_Dashboard.jpg` | Screenshot — Page 1 |
-| `Product_Performance.jpg` | Screenshot — Page 2 |
-| `Operations_Dashboard.jpg` | Screenshot — Page 3 |
+| `Dashboards/Executive Sales Dashboard.jpg` | Screenshot — Page 1 |
+| `Dashboards/Product Performance.jpg` | Screenshot — Page 2 |
+| `Dashboards/Operations Dashboard.jpg` | Screenshot — Page 3 |
 | `E-Commerce_Sales_Dashboard_Portfolio.pptx` | Presentation deck summarizing the project |
 
 ---
@@ -115,7 +115,8 @@ DIVIDE(
 ## 👤 Author
 
 **Karan Pawar**
-B.Sc. Computer Science | PowerBI Devloper & Data Analyst
+B.Sc. Computer Science | Data Analyst & Backend Developer
 
 - GitHub: [github.com/karan-codes45](https://github.com/karan-codes45)
-- LinkedIn: [linkedin.com/in/karanpawar-9a645a2ab](https://linkedin.com/in/karanpawar-9a645a2ab)
+- LinkedIn:(https://www.linkedin.com/in/karan-pawar-9a645a2ab)
+<img width="584" height="53" alt="image" src="https://github.com/user-attachments/assets/718efb77-bd0a-459e-a06e-6291868c2f4d" />
