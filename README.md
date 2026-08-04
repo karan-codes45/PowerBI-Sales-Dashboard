@@ -44,7 +44,7 @@ One fact table connected to four dimension tables — built for clean, fast DAX 
 - Only 13.93% of orders are festive-sale, yet the monthly trend still peaks sharply around Oct–Nov
 
 ### 2️⃣ Product Performance
-![Product Performance](Product_Performance.jpg)
+![Product Performance]([Product_Performance.jpg](https://github.com/karan-codes45/PowerBI-Sales-Dashboard/blob/main/Dashboards/Product%20Performance.jpg))
 
 **Key metrics:** ₹26.11K Avg Order Value · 45.1% Regular Segment share
 
@@ -55,7 +55,7 @@ One fact table connected to four dimension tables — built for clean, fast DAX 
 - By units sold, Nike is the top-selling brand, well ahead of Roadster and Penguin
 
 ### 3️⃣ Operations Dashboard
-![Operations Dashboard](Operations_Dashboard.jpg)
+![Operations Dashboard]([Operations_Dashboard.jpg](https://github.com/karan-codes45/PowerBI-Sales-Dashboard/blob/main/Dashboards/Operations%20Dashboard.jpg))
 
 **Key metrics:** 6 days Avg Delivery · 9,108 units tracked
 
