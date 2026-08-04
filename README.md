@@ -33,7 +33,7 @@ One fact table connected to four dimension tables — built for clean, fast DAX 
 ## 📄 Dashboard Pages
 
 ### 1️⃣ Executive Sales Overview
-![Executive Sales Overview](Executive_Sales_Dashboard.jpg)
+![Executive Sales Overview]([Executive_Sales_Dashboard.jpg](https://github.com/karan-codes45/PowerBI-Sales-Dashboard/blob/main/Dashboards/Executive%20Sales%20Dashboard.jpg))
 
 **Key metrics:** ₹156.64M Total Revenue · 6K Orders
 
